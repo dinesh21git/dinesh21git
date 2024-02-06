@@ -20,4 +20,4 @@ Will update soon....
 I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - Email: 
-- LinkedIn: 
+- LinkedIn::
