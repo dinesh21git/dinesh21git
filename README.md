@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm passionate about Linux, open source, and all things programming. My journey in the tech world has led me to explore various languages like C, Python, Go, and JavaScript. I believe in the power of continuous learning, always eager to dive into new programming languages and technologies that pique my interest.
+Hello there! 👋 I'm passionate about Linux, open source, and all things programming. My journey in the tech world has led me to explore various languages like C, Python, Go, Lua and JavaScript. I believe in the power of continuous learning, always eager to dive into new programming languages and technologies that pique my interest.
 
 ## Interests
 
